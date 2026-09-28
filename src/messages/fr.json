@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "title": "Under10 — Des repas à moins de 10 € partout en Europe",
+    "description": "Under10, la carte des repas à moins de 10 € partout en Europe. Trouvez de bonnes adresses abordables où que vous soyez.",
+    "ogLocale": "fr_FR"
+  },
+  "share": {
+    "home": {
+      "alt": "Under10 : « Bien manger pour moins de 10 €, partout. » App gratuite pour iPhone et Android, sur un téléphone affichant des prix de repas sur une carte.",
+      "titleStart": "Bien manger pour",
+      "titleHighlight": "moins de 10 €",
+      "titleEnd": "partout.",
+      "subtitle": "App gratuite · iPhone & Android"
+    },
+    "restaurants": {
+      "alt": "Under10 pour les restaurants : « Mettez votre restaurant sur la carte. » 7 jours gratuits, puis 19 €/mois, à côté d’un tableau de bord avec vues, itinéraires et favoris.",
+      "title": "Mettez votre restaurant sur la carte",
+      "subtitle": "7 jours gratuits, puis 19 €/mois"
+    }
+  },
+  "nav": {
+    "home": "Accueil Under10",
+    "howItWorks": "Comment ça marche",
+    "explore": "Explorer",
+    "forRestaurants": "Pour les restaurants",
+    "faq": "FAQ",
+    "getApp": "Télécharger l’app",
+    "language": "Langue",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "menu": "Menu",
+    "mainNav": "Navigation principale"
+  },
+  "footer": {
+    "tagline": "La carte des repas à moins de 10 € partout en Europe.",
+    "product": "Produit",
+    "support": "Assistance",
+    "legal": "Légal",
+    "help": "Aide",
+    "contact": "Contact",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "legalNotice": "Mentions légales",
+    "copyright": "© 2026 Under10 · TechLoops"
+  },
+  "appDownload": {
+    "qrCaption": "Scannez pour télécharger sur votre téléphone",
+    "qrLabel": "QR code pour télécharger Under10"
+  },
+  "pages": {
+    "help": {
+      "title": "Aide"
+    },
+    "privacy": {
+      "title": "Politique de confidentialité"
+    },
+    "terms": {
+      "title": "Conditions d’utilisation"
+    },
+    "legal": {
+      "title": "Mentions légales"
+    },
+    "lastUpdated": "Dernière mise à jour : {date}",
+    "comingSoon": "Bientôt disponible",
+    "onThisPage": "Sur cette page"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Des repas à moins de 10 € partout en Europe",
+      "title": "Bien manger pour<br></br><highlight>moins de 10 €</highlight>, partout.",
+      "subtitle": "Une carte en direct des repas pas chers, ajoutés et vérifiés par des gens qui y sont vraiment allés.",
+      "comingSoon": "Bientôt disponible",
+      "comingSoonStore": "Bientôt sur {store}",
+      "appStorePre": "Télécharger dans l’",
+      "appStore": "App Store",
+      "googlePlayPre": "Disponible sur",
+      "googlePlay": "Google Play",
+      "trust": {
+        "freeForEaters": "Gratuit pour les gourmands",
+        "realPrices": "Des prix réels",
+        "madeIn": "Fabriqué à Clermont-Ferrand"
+      },
+      "phone": {
+        "label": "Aperçu de l’app Under10 : une carte des repas à proximité avec leurs prix",
+        "placeName": "Kebab du Coin",
+        "placeMeta": "Kebab · 350 m · Ouvert",
+        "verified": "Vérifié il y a 2 h"
+      }
+    },
+    "cuisines": {
+      "title": "Toutes les cuisines, tous les budgets",
+      "from": "dès {price}",
+      "items": {
+        "kebab": "Kebab",
+        "pho": "Phở",
+        "crepes": "Crêpes",
+        "tacos": "Tacos",
+        "pizzaSlice": "Part de pizza",
+        "banhMi": "Bánh mì",
+        "falafel": "Falafel",
+        "couscous": "Couscous",
+        "burger": "Burger",
+        "sushi": "Sushi",
+        "dumplings": "Raviolis",
+        "shawarma": "Shawarma",
+        "bakery": "Boulangerie",
+        "pasta": "Pâtes",
+        "soup": "Soupe",
+        "salad": "Salade"
+      }
+    },
+    "howItWorks": {
+      "eyebrow": "Comment ça marche",
+      "title": "Trois touches pour un bon repas pas cher",
+      "subtitle": "Pas d’avis à lire, pas de menus à deviner. De vrais prix donnés par de vraies personnes, vérifiés cette semaine.",
+      "steps": {
+        "find": {
+          "title": "Trouvez les bons plans près de chez vous",
+          "text": "Ouvrez la carte et voyez tous les repas à moins de 10 € autour de vous, avec le vrai prix sur l’épingle."
+        },
+        "verify": {
+          "title": "Vérifiez le prix, gagnez des points",
+          "text": "Vous y êtes allé ? Touchez « J’y étais » à moins d’1 km pour confirmer que le prix est toujours bon."
+        },
+        "share": {
+          "title": "Ajoutez une adresse en 30 secondes",
+          "text": "Épinglez-la, indiquez le prix, ajoutez une photo ou une vidéo d’une minute. Vos amis la voient tout de suite."
+        }
+      },
+      "visuals": {
+        "underPrice": "Moins de {price}",
+        "openNow": "Ouvert",
+        "placeName": "Kebab du Coin",
+        "wasThere": "J’y étais",
+        "peopleHere": "{count, plural, one {# personne est passée} other {# personnes sont passées}}",
+        "points": "+{count} pts",
+        "price": "Prix",
+        "postSpot": "Publier"
+      }
+    },
+    "explore": {
+      "eyebrow": "Explorer",
+      "title": "Parcourez votre ville comme un fil d’actu",
+      "subtitle": "Faites défiler les meilleures adresses pas chères autour de vous. De vraies photos, des vidéos d’une minute et des stories de gens qui y ont mangé aujourd’hui.",
+      "features": {
+        "videos": {
+          "title": "Des vidéos jusqu’à 1 minute",
+          "text": "Voyez le plat avant d’y aller."
+        },
+        "likes": {
+          "title": "Likez et enregistrez",
+          "text": "Gardez vos coups de cœur pour plus tard."
+        },
+        "stories": {
+          "title": "Des stories pendant 24 heures",
+          "text": "Les plats du jour, tout droit sortis de la cuisine."
+        }
+      },
+      "feed": {
+        "label": "Aperçu du fil Explorer",
+        "showItem": "Afficher l’adresse {n}",
+        "official": "Officiel",
+        "spottedBy": "Repéré par {name}",
+        "openNow": "Ouvert",
+        "likes": "J’aime",
+        "verified": "Vérifications",
+        "save": "Enregistrer",
+        "share": "Partager",
+        "cuisines": {
+          "kebab": "Kebab",
+          "vietnamese": "Vietnamien",
+          "bakery": "Boulangerie",
+          "mexican": "Mexicain"
+        }
+      }
+    },
+    "forRestaurants": {
+      "eyebrow": "Pour les restaurants",
+      "title": "Mettez votre restaurant sur la carte des bons plans",
+      "subtitle": "Des milliers de gens affamés cherchent de bons repas à moins de 10 €. Revendiquez votre page et montrez-leur ce qu’il y a au menu aujourd’hui.",
+      "perks": {
+        "badge": "Badge officiel sur votre page et votre épingle",
+        "menu": "Mettez à jour menu et prix en quelques secondes",
+        "stories": "Publiez des stories et des vidéos d’une minute",
+        "insights": "Suivez vues, itinéraires et favoris chaque jour"
+      },
+      "claim": "Revendiquer mon restaurant",
+      "ownersLink": "Comment ça marche pour les restaurateurs →",
+      "note": "7 jours offerts, puis 19 €/mois. Aucune commission sur vos ventes.",
+      "dashboard": {
+        "official": "Officiel",
+        "period": "7 derniers jours",
+        "stats": {
+          "views": "Vues",
+          "directions": "Itinéraires",
+          "saves": "Favoris"
+        },
+        "days": {
+          "mon": "Lun",
+          "tue": "Mar",
+          "wed": "Mer",
+          "thu": "Jeu",
+          "fri": "Ven",
+          "sat": "Sam",
+          "sun": "Dim"
+        },
+        "inboxTitle": "Nouveau prix suggéré",
+        "inboxText": "{from} → {to} · par {name}",
+        "accept": "Accepter",
+        "reject": "Refuser",
+        "newStory": "+1 nouvelle story"
+      }
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "Vos questions, nos réponses",
+      "contact": "Toujours bloqué ? Écrivez-nous à <email>support@under10.app</email>",
+      "helpLink": "Consulter le centre d’aide →",
+      "items": [
+        {
+          "q": "Under10 est-il gratuit ?",
+          "a": "Pour les gourmands, oui — toujours. Les restaurants paient 19 €/mois (ou 190 €/an) après un essai gratuit de 7 jours pour obtenir la page officielle et les outils restaurateur."
+        },
+        {
+          "q": "Où fonctionne Under10 ?",
+          "a": "Partout en Europe. Les adresses sont ajoutées par la communauté, donc les grandes villes se remplissent en premier. Si votre ville est vide, ajoutez la première adresse et gagnez 20 points."
+        },
+        {
+          "q": "Comment savez-vous que les prix sont justes ?",
+          "a": "Chaque prix est vérifié par des gens qui y sont allés. Touchez « J’y étais » à moins d’1 km pour le confirmer, ou proposez un nouveau prix s’il a changé. Deux propositions identiques le mettent à jour automatiquement."
+        },
+        {
+          "q": "Faut-il un compte ?",
+          "a": "Non. Vous pouvez parcourir la carte, les adresses et le fil Explorer en tant qu’invité. Un compte gratuit est nécessaire pour ajouter des adresses, liker, vérifier, enregistrer et publier."
+        },
+        {
+          "q": "Pourquoi seulement des repas à moins de 10 € ?",
+          "a": "Parce que c’est ça, le plus dur. Tout le monde sait trouver un restaurant à 25 €. Under10, c’est bien manger quand le budget est serré, où que vous alliez."
+        },
+        {
+          "q": "Puis-je publier des vidéos et des stories ?",
+          "a": "Oui. Ajoutez des photos et des vidéos jusqu’à 1 minute à n’importe quelle adresse, et publiez des stories qui disparaissent après 24 heures."
+        },
+        {
+          "q": "J’ai un restaurant. Comment obtenir le badge Officiel ?",
+          "a": "Téléchargez l’app, créez un compte restaurant, trouvez votre établissement, envoyez un justificatif (Kbis ou facture) et démarrez votre essai gratuit de 7 jours dans l’app."
+        },
+        {
+          "q": "Comment supprimer mon compte ?",
+          "a": "Dans Réglages → Supprimer le compte. Tout ce que vous avez publié est supprimé définitivement. Les adresses utilisées par d’autres restent sur la carte, sans votre nom."
+        }
+      ]
+    },
+    "download": {
+      "eyebrow": "Obtenir Under10",
+      "title": "Téléchargez Under10 et mangez bien pour moins de 10 €",
+      "subtitle": "Gratuit pour les gourmands. Disponible sur iPhone et Android."
+    }
+  },
+  "restaurants": {
+    "meta": {
+      "title": "Pour les restaurants",
+      "description": "Mettez votre restaurant sur Under10, la carte des repas à moins de 10 € partout en Europe. 7 jours offerts, puis 19 €/mois."
+    },
+    "hero": {
+      "eyebrow": "Under10 pour les restaurants",
+      "title": "Des gens affamés vous cherchent",
+      "subtitle": "Under10 montre votre meilleur repas à moins de 10 € à tout le monde autour de vous. Revendiquez votre page, gardez vos prix à jour et regardez les visites arriver.",
+      "cta": "Commencer l’essai gratuit",
+      "note": "7 jours offerts, puis 19 €/mois ou 190 €/an. Résiliable à tout moment."
+    },
+    "how": {
+      "eyebrow": "Comment ça marche",
+      "title": "Officiel en 4 étapes",
+      "steps": {
+        "account": {
+          "title": "Créez un compte restaurant",
+          "text": "Inscrivez-vous dans l’app et choisissez Restaurant."
+        },
+        "find": {
+          "title": "Trouvez votre restaurant",
+          "text": "Cherchez-le sur la carte, ou ajoutez-le s’il n’y est pas encore."
+        },
+        "proof": {
+          "title": "Envoyez un justificatif",
+          "text": "Un Kbis, un SIRET ou une facture à votre nom. Il reste privé."
+        },
+        "badge": {
+          "title": "Obtenez le badge Officiel",
+          "text": "Nous le vérifions sous 2 jours ouvrés. Ensuite, votre page est à vous."
+        }
+      }
+    },
+    "features": {
+      "title": "Tout ce qu’il faut, rien de superflu",
+      "items": {
+        "badge": {
+          "title": "Badge officiel",
+          "text": "Démarquez-vous sur la carte et dans le fil."
+        },
+        "menu": {
+          "title": "Menu et prix",
+          "text": "Mettez à jour vos plats et votre prix carte en quelques secondes."
+        },
+        "hours": {
+          "title": "Horaires d’ouverture",
+          "text": "Les gourmands voient « Ouvert » ou votre prochaine ouverture."
+        },
+        "media": {
+          "title": "Photos, vidéos et stories",
+          "text": "Des vidéos d’une minute et des stories de 24 heures pour le plat du jour."
+        },
+        "stats": {
+          "title": "Statistiques quotidiennes",
+          "text": "Vues, itinéraires et favoris, jour après jour."
+        },
+        "inbox": {
+          "title": "Suggestions de prix",
+          "text": "Les gourmands proposent des mises à jour ; vous acceptez ou refusez."
+        }
+      }
+    },
+    "faq": {
+      "title": "Questions de restaurateurs",
+      "items": [
+        {
+          "q": "Est-ce payant ?",
+          "a": "7 jours offerts, puis 19 €/mois ou 190 €/an. Sans commission, résiliable à tout moment. Si vous arrêtez, votre adresse reste sur la carte comme adresse de la communauté, sans le badge Officiel ni les outils restaurateur."
+        },
+        {
+          "q": "Et si mes prix dépassent 10 € ?",
+          "a": "Votre page reste la vôtre, mais la carte n’affiche que les restaurants proposant au moins un repas à moins de 10 €. Choisissez ce repas comme prix carte."
+        },
+        {
+          "q": "Puis-je supprimer de mauvaises photos ?",
+          "a": "Vous ne pouvez pas supprimer les photos de la communauté, mais vous pouvez signaler toute photo qui enfreint nos règles et nous l’examinerons."
+        },
+        {
+          "q": "Je suis fermé pour les vacances.",
+          "a": "Touchez « Marquer comme fermé ». Votre page affiche « Fermé temporairement » et quitte la carte jusqu’à votre réouverture."
+        }
+      ]
+    },
+    "join": {
+      "title": "Mettez votre restaurant sur Under10",
+      "subtitle": "Téléchargez l’app, créez un compte restaurant et démarrez votre essai gratuit de 7 jours. Paiement via l’App Store ou Google Play."
+    },
+    "pricing": {
+      "title": "Une offre. Tout compris.",
+      "subtitle": "Essayez gratuitement pendant 7 jours.",
+      "billingLabel": "Période de facturation",
+      "monthly": "Mensuel",
+      "yearly": "Annuel",
+      "yearlyChip": "2 mois offerts",
+      "badge": "7 jours offerts",
+      "planName": "Under10 pour les restaurants",
+      "perMonth": "/mois",
+      "perYear": "/an",
+      "yearlyBreakdown": "{perMonth}/mois · payez 10 mois, profitez de 12",
+      "billingNote": "Gratuit pendant 7 jours, puis facturé. Résiliable à tout moment.",
+      "features": [
+        "Page et badge officiels",
+        "Menu, prix et horaires",
+        "Photos, vidéos et stories illimitées",
+        "Mise en avant hebdomadaire dans Explorer et sur la carte",
+        "Stats sur 90 jours et heures de pointe",
+        "Boîte de suggestions de prix",
+        "Alerte « Plat du jour » à vos fans",
+        "Plusieurs établissements"
+      ],
+      "cta": "Essai gratuit de 7 jours",
+      "footnote": "Abonnez-vous dans l’app. Paiement via l’App Store ou Google Play. Résiliable à tout moment dans les réglages de votre téléphone. Les adresses mises en avant sont toujours signalées « Sponsorisé »."
+    }
+  }
+}

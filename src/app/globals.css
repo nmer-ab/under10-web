@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-jakarta), ui-sans-serif, system-ui, sans-serif;
+}
+
+@theme {
+  --color-green: #10b981;
+  --color-green-dark: #047857;
+  --color-green-soft: #ecfdf5;
+  --color-orange: #f97316;
+  --color-ink: #111827;
+  --color-muted: #6b7280;
+  --color-faint: #9ca3af;
+  --color-line: #e5e7eb;
+  --color-bg: #ffffff;
+
+  --animate-marquee: marquee 40s linear infinite;
+  --animate-marquee-reverse: marquee-reverse 40s linear infinite;
+
+  @keyframes marquee {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-50%);
+    }
+  }
+
+  @keyframes marquee-reverse {
+    from {
+      transform: translateX(-50%);
+    }
+    to {
+      transform: translateX(0);
+    }
+  }
+}
+
+/* Named apart from Tailwind's built-in `container`, whose per-breakpoint max-widths would conflict. */
+@utility site-container {
+  width: 100%;
+  max-width: 1200px;
+  margin-inline: auto;
+  padding-inline: 20px;
+
+  @media (width >= 48rem) {
+    padding-inline: 32px;
+  }
+}
+
+/* Plus Jakarta's wide punctuation side-bearing reads as a space at display sizes. */
+.punct {
+  margin-left: -0.08em;
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-ink);
+}

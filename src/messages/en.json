@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "title": "Under10 — Meals under €10 across Europe",
+    "description": "Under10 is the map of meals under €10 across Europe. Find great, affordable places to eat wherever you are.",
+    "ogLocale": "en_US"
+  },
+  "share": {
+    "home": {
+      "alt": "Under10: “Eat well for under €10, anywhere.” Free app for iPhone and Android, shown on a phone with meal prices pinned on a map.",
+      "titleStart": "Eat well for",
+      "titleHighlight": "under €10",
+      "titleEnd": "anywhere.",
+      "subtitle": "Free app · iPhone & Android"
+    },
+    "restaurants": {
+      "alt": "Under10 for restaurants: “Put your restaurant on the map.” 7 days free, then €19/month, next to an owner dashboard with views, directions and saves.",
+      "title": "Put your restaurant on the map",
+      "subtitle": "7 days free, then €19/month"
+    }
+  },
+  "nav": {
+    "home": "Under10 home",
+    "howItWorks": "How it works",
+    "explore": "Explore",
+    "forRestaurants": "For restaurants",
+    "faq": "FAQ",
+    "getApp": "Get the app",
+    "language": "Language",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "menu": "Menu",
+    "mainNav": "Main"
+  },
+  "footer": {
+    "tagline": "The map of meals under €10 across Europe.",
+    "product": "Product",
+    "support": "Support",
+    "legal": "Legal",
+    "help": "Help",
+    "contact": "Contact",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "legalNotice": "Legal notice",
+    "copyright": "© 2026 Under10 · TechLoops"
+  },
+  "appDownload": {
+    "qrCaption": "Scan to download on your phone",
+    "qrLabel": "QR code to download Under10"
+  },
+  "pages": {
+    "help": {
+      "title": "Help"
+    },
+    "privacy": {
+      "title": "Privacy policy"
+    },
+    "terms": {
+      "title": "Terms of service"
+    },
+    "legal": {
+      "title": "Legal notice"
+    },
+    "lastUpdated": "Last updated {date}",
+    "comingSoon": "Coming soon",
+    "onThisPage": "On this page"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Meals under €10 across Europe",
+      "title": "Eat well for<br></br><highlight>under €10</highlight>, anywhere.",
+      "subtitle": "A live map of cheap meals, added and price-checked by people who were actually there.",
+      "comingSoon": "Coming soon",
+      "comingSoonStore": "{store} coming soon",
+      "appStorePre": "Download on the",
+      "appStore": "App Store",
+      "googlePlayPre": "Get it on",
+      "googlePlay": "Google Play",
+      "trust": {
+        "freeForEaters": "Free for eaters",
+        "realPrices": "Real prices",
+        "madeIn": "Made in Clermont-Ferrand"
+      },
+      "phone": {
+        "label": "Under10 app preview: a map of nearby meals with their prices",
+        "placeName": "Kebab du Coin",
+        "placeMeta": "Kebab · 350 m · Open now",
+        "verified": "Verified 2h ago"
+      }
+    },
+    "cuisines": {
+      "title": "Every cuisine, every budget",
+      "from": "from {price}",
+      "items": {
+        "kebab": "Kebab",
+        "pho": "Pho",
+        "crepes": "Crêpes",
+        "tacos": "Tacos",
+        "pizzaSlice": "Pizza slice",
+        "banhMi": "Bánh mì",
+        "falafel": "Falafel",
+        "couscous": "Couscous",
+        "burger": "Burger",
+        "sushi": "Sushi",
+        "dumplings": "Dumplings",
+        "shawarma": "Shawarma",
+        "bakery": "Bakery",
+        "pasta": "Pasta",
+        "soup": "Soup",
+        "salad": "Salad"
+      }
+    },
+    "howItWorks": {
+      "eyebrow": "How it works",
+      "title": "Three taps to a cheap, good meal",
+      "subtitle": "No reviews to read, no menus to guess. Real prices from real people, checked this week.",
+      "steps": {
+        "find": {
+          "title": "Find what’s cheap near you",
+          "text": "Open the map and see every meal under €10 around you, with the real price on the pin."
+        },
+        "verify": {
+          "title": "Check the price, earn points",
+          "text": "Been there? Tap “I was there” within 1 km to confirm the price is still right."
+        },
+        "share": {
+          "title": "Add a spot in 30 seconds",
+          "text": "Pin it, set the price, add a photo or a 1-minute video. Your friends see it right away."
+        }
+      },
+      "visuals": {
+        "underPrice": "Under {price}",
+        "openNow": "Open now",
+        "placeName": "Kebab du Coin",
+        "wasThere": "I was there",
+        "peopleHere": "{count, plural, one {# person was here} other {# people were here}}",
+        "points": "+{count} pts",
+        "price": "Price",
+        "postSpot": "Post spot"
+      }
+    },
+    "explore": {
+      "eyebrow": "Explore",
+      "title": "Scroll your city like a feed",
+      "subtitle": "Swipe up through the best cheap spots around you. Real photos, 1-minute videos and stories from people who ate there today.",
+      "features": {
+        "videos": {
+          "title": "Videos up to 1 minute",
+          "text": "See the food before you go."
+        },
+        "likes": {
+          "title": "Like and save",
+          "text": "Keep your favourites for later."
+        },
+        "stories": {
+          "title": "Stories for 24 hours",
+          "text": "Today’s specials, straight from the kitchen."
+        }
+      },
+      "feed": {
+        "label": "Explore feed preview",
+        "showItem": "Show spot {n}",
+        "official": "Official",
+        "spottedBy": "Spotted by {name}",
+        "openNow": "Open now",
+        "likes": "Likes",
+        "verified": "Verified",
+        "save": "Save",
+        "share": "Share",
+        "cuisines": {
+          "kebab": "Kebab",
+          "vietnamese": "Vietnamese",
+          "bakery": "Bakery",
+          "mexican": "Mexican"
+        }
+      }
+    },
+    "forRestaurants": {
+      "eyebrow": "For restaurants",
+      "title": "Put your restaurant on the map of cheap eats",
+      "subtitle": "Thousands of hungry people look for good meals under €10. Claim your page and show them what’s on today.",
+      "perks": {
+        "badge": "Official badge on your page and pin",
+        "menu": "Update your menu and prices in seconds",
+        "stories": "Post stories and 1-minute videos",
+        "insights": "See views, directions and saves every day"
+      },
+      "claim": "Claim your restaurant",
+      "ownersLink": "How it works for owners →",
+      "note": "7 days free, then €19/month. No commission on your sales.",
+      "dashboard": {
+        "official": "Official",
+        "period": "Last 7 days",
+        "stats": {
+          "views": "Views",
+          "directions": "Directions",
+          "saves": "Saves"
+        },
+        "days": {
+          "mon": "Mon",
+          "tue": "Tue",
+          "wed": "Wed",
+          "thu": "Thu",
+          "fri": "Fri",
+          "sat": "Sat",
+          "sun": "Sun"
+        },
+        "inboxTitle": "New price suggested",
+        "inboxText": "{from} → {to} · by {name}",
+        "accept": "Accept",
+        "reject": "Reject",
+        "newStory": "+1 new story"
+      }
+    },
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "Questions, answered",
+      "contact": "Still stuck? Write to us at <email>support@under10.app</email>",
+      "helpLink": "Visit the help center →",
+      "items": [
+        {
+          "q": "Is Under10 free?",
+          "a": "For eaters, yes — always. Restaurants pay €19/month (or €190/year) after a 7-day free trial to get the Official page and owner tools."
+        },
+        {
+          "q": "Where does Under10 work?",
+          "a": "Everywhere in Europe. Spots are added by the community, so big cities fill up first. If your town is empty, add the first spot and earn 20 points."
+        },
+        {
+          "q": "How do you know the prices are right?",
+          "a": "Every price is checked by people who were there. Tap “I was there” within 1 km to confirm it, or suggest a new price if it changed. Two matching suggestions update it automatically."
+        },
+        {
+          "q": "Do I need an account?",
+          "a": "No. You can browse the map, spots and the Explore feed as a guest. You need a free account to add spots, like, verify, save and post."
+        },
+        {
+          "q": "Why only meals under €10?",
+          "a": "Because that’s the hard part. Anyone can find a €25 restaurant. Under10 is about eating well when money is tight, anywhere you go."
+        },
+        {
+          "q": "Can I post videos and stories?",
+          "a": "Yes. Add photos and videos up to 1 minute to any spot, and post stories that disappear after 24 hours."
+        },
+        {
+          "q": "I own a restaurant. How do I get the Official badge?",
+          "a": "Download the app, create a restaurant account, find your restaurant, send a proof (Kbis or invoice) and start your 7-day free trial in the app."
+        },
+        {
+          "q": "How do I delete my account?",
+          "a": "In Settings → Delete account. Everything you posted is deleted for good. Spots others also used stay on the map without your name."
+        }
+      ]
+    },
+    "download": {
+      "eyebrow": "Get Under10",
+      "title": "Download Under10 and eat well for under €10",
+      "subtitle": "Free for eaters. Available on iPhone and Android."
+    }
+  },
+  "restaurants": {
+    "meta": {
+      "title": "For restaurants",
+      "description": "Put your restaurant on Under10, the map of meals under €10 across Europe. 7 days free, then €19/month."
+    },
+    "hero": {
+      "eyebrow": "Under10 for restaurants",
+      "title": "Hungry people are looking for you",
+      "subtitle": "Under10 shows your best meal under €10 to everyone nearby. Claim your page, keep your prices right, and watch the visits come in.",
+      "cta": "Start your 7-day free trial",
+      "note": "7 days free, then €19/month or €190/year. Cancel anytime."
+    },
+    "how": {
+      "eyebrow": "How it works",
+      "title": "Official in 4 steps",
+      "steps": {
+        "account": {
+          "title": "Create a restaurant account",
+          "text": "Sign up in the app and choose Restaurant."
+        },
+        "find": {
+          "title": "Find your restaurant",
+          "text": "Search for it on the map, or add it if it isn’t there yet."
+        },
+        "proof": {
+          "title": "Send a proof",
+          "text": "A Kbis, SIRET or an invoice with your name. It stays private."
+        },
+        "badge": {
+          "title": "Get the Official badge",
+          "text": "We review it within 2 working days. Then your page is yours."
+        }
+      }
+    },
+    "features": {
+      "title": "Everything you need, nothing you don’t",
+      "items": {
+        "badge": {
+          "title": "Official badge",
+          "text": "Stand out on the map and in the feed."
+        },
+        "menu": {
+          "title": "Menu & prices",
+          "text": "Update dishes and your map price in seconds."
+        },
+        "hours": {
+          "title": "Opening hours",
+          "text": "Eaters see “Open now” or when you open next."
+        },
+        "media": {
+          "title": "Photos, videos & stories",
+          "text": "1-minute videos and 24-hour stories for today’s special."
+        },
+        "stats": {
+          "title": "Daily stats",
+          "text": "Views, directions and saves, day by day."
+        },
+        "inbox": {
+          "title": "Price suggestions",
+          "text": "Eaters suggest updates; you accept or reject."
+        }
+      }
+    },
+    "faq": {
+      "title": "Owner questions",
+      "items": [
+        {
+          "q": "Does it cost anything?",
+          "a": "7 days free, then €19/month or €190/year. No commission, cancel anytime. If you stop, your spot stays on the map as a community spot, without the Official badge and owner tools."
+        },
+        {
+          "q": "What if my prices are over €10?",
+          "a": "Your page stays yours, but the map only shows restaurants with at least one meal under €10. Set that meal as your map price."
+        },
+        {
+          "q": "Can I remove bad photos?",
+          "a": "You can’t delete community photos, but you can report any photo that breaks our rules and we’ll review it."
+        },
+        {
+          "q": "I’m closed for holidays.",
+          "a": "Tap “Mark as closed”. Your page shows “Temporarily closed” and leaves the map until you reopen."
+        }
+      ]
+    },
+    "join": {
+      "title": "Get your restaurant on Under10",
+      "subtitle": "Download the app, create a restaurant account and start your 7-day free trial. Payment through the App Store or Google Play."
+    },
+    "pricing": {
+      "title": "One plan. Everything included.",
+      "subtitle": "Try it free for 7 days.",
+      "billingLabel": "Billing period",
+      "monthly": "Monthly",
+      "yearly": "Yearly",
+      "yearlyChip": "2 months free",
+      "badge": "7 days free",
+      "planName": "Under10 for Restaurants",
+      "perMonth": "/month",
+      "perYear": "/year",
+      "yearlyBreakdown": "{perMonth}/month · pay 10 months, get 12",
+      "billingNote": "Free for 7 days, then billed. Cancel anytime.",
+      "features": [
+        "Official page & badge",
+        "Menu, prices & opening hours",
+        "Photos, videos & unlimited stories",
+        "Weekly boost in Explore & on the map",
+        "90-day stats & peak hours",
+        "Price suggestions inbox",
+        "“Today’s special” alert to your fans",
+        "Multiple locations"
+      ],
+      "cta": "Start 7-day free trial",
+      "footnote": "Subscribe in the app. Payment through the App Store or Google Play. Cancel anytime in your phone’s settings. Boosted spots are always labelled Sponsored."
+    }
+  }
+}
